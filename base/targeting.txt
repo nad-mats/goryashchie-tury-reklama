@@ -1,0 +1,40 @@
+Киев|Kyiv city, Ukraine; Kyiv Oblast, Ukraine; Zhytomyr Oblast, Ukraine; Cherkasy Oblast, Ukraine; Chernihiv Oblast, Ukraine
+Харьков|Kharkiv Oblast, Ukraine; Donetsk Oblast, Ukraine; Luhansk Oblast, Ukraine; Poltava Oblast, Ukraine; Sumy Oblast, Ukraine
+Одесса|Odessa Oblast, Ukraine
+Днепр|Dnipropetrovsk Oblast, Ukraine
+Запорожье|Zaporizhia Oblast, Ukraine
+Львов|Lviv Oblast, Ukraine; Volyn Oblast, Ukraine; Rivne Oblast, Ukraine; Ternopil Oblast, Ukraine; Zakarpattia Oblast, Ukraine
+Кривой Рог|Kryvyi Rih, Dnipropetrovsk Oblast, Ukraine; Kirovohrad Oblast, Ukraine
+Николаев|Mykolaiv Oblast, Ukraine
+Мариуполь|Mariupol', Donetsk Oblast, Ukraine
+Винница|Vinnytsia Oblast, Ukraine; Khmelnytskyi Oblast, Ukraine
+Херсон|Kherson Oblast, Ukraine
+Черновцы|Chernivtsi Oblast, Ukraine
+Ивано-Франковск|Ivano-Frankivsk Oblast, Ukraine
+Минск|Minsk Region, Belarus
+Гомель|Gomel Region, Belarus
+Могилев|Mogilev Region, Belarus
+Витебск|Vitebsk Region, Belarus
+Гродно|Hrodna Region, Belarus
+Брест|Brest Region, Belarus
+Москва|Moscow, Russia; Moscow Oblast, Russia
+Санкт-Петербург|Saint Petersburg, Russia; Leningrad Oblast, Russia
+Новосибирск|Novosibirsk Oblast, Russia
+Екатеринбург|Sverdlovsk Oblast, Russia
+Нижний Новгород|Nizhny Novgorod Oblast, Russia
+Казань|Republic of Tatarstan, Russia
+Челябинск|Chelyabinsk Oblast, Russia
+Омск|Omsk Oblast, Russia
+Самара|Samara Oblast, Russia
+Ростов-на-Дону|Rostov Oblast, Russia
+Уфа|Republic of Bashkortostan, Russia
+Красноярск|Krasnoyarsk Krai, Russia
+Воронеж|Voronezh Oblast, Russia
+Пермь|Perm Krai, Russia
+Волгоград|Volgograd Oblast, Russia
+Краснодар|Krasnodar Krai, Russia
+Алматы|Almaty Province, Kazakhstan
+Нур-Султан|Nur-Sultan, Kazakhstan
+Шымкент|South Kazakhstan Province, Kazakhstan
+Актобе|Aktobe Province, Kazakhstan
+Караганда|Karagandy Province, Kazakhstan

@@ -1,0 +1,44 @@
+Минск|Minsk
+Гомель|Homel
+Могилев|Mogilev|Могилёв
+Витебск|Vitebsk
+Гродно|Grodno
+Брест|Brest
+Варшава|Warsaw
+Вильнюс|Vilnius
+Каунас|Kaunas
+Рига|Riga
+Киев|Kiev|Kyiv|Київ
+Харьков|Kharkiv|Kharkov|Харків
+Одесса|Odessa|Одеса
+Днепр|Dnipro|Дніпро
+Запорожье|Zaporizhia|Zaporozhye|Запоріжжя
+Львов|Lviv|Lvov|Львів
+Кривой Рог|Kryvyi Rih|Krivoy Rog|Кривий Ріг
+Николаев|Mykolaiv|Миколаїв
+Мариуполь|Mariupol|Маріуполь
+Винница|Vinnytsia|Вінниця
+Херсон|Kherson|Чернівці
+Черновцы|Chernivtsi
+Ивано-Франковск|Ivano-Frankivsk|Івано-Франківськ
+Москва|Moscow
+Санкт-Петербург|Санкт - Петербург|St. Petersburg|Saint-Petrsburg|Saint-Petersburg|Saint Petersburg|С. Петербург|С.Петербург|Петербург|Санкт Петербург
+Новосибирск|Novosibirsk
+Екатеринбург|Yekaterinburg|Ekaterinburg
+Нижний Новгород|Nizhny Novgorod|Нижний-Новгород|Н. Новгород
+Казань|Kazan
+Челябинск|Chelyabinsk
+Омск|Omsk
+Самара|Samara
+Ростов-на-Дону|Rostov-on-Don|Rostov on Don|Ростов на Дону|Ростов
+Уфа|Ufa
+Красноярск|Krasnoyarsk
+Воронеж|Voronezh
+Пермь|Perm
+Волгоград|Volgograd
+Краснодар|Krasnodar
+Алматы|Almaty|Alma-Ata|Almaata|Алма-Ата
+Нур-Султан|Nur-Sultan|Astana|Нурсултан|Нур-Cултан
+Шымкент|Shymkent
+Актобе|Aktobe
+Караганда|Karagandy

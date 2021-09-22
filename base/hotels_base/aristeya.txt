@@ -1,0 +1,765 @@
+116 RESIDENCE HOTEL ***** (Шишли)|13915|Турция
+ABIDOS HOTEL APARTMENT AL BARSHA Apartments (Al Barsha)|1573|ОАЭ
+ACROPOLIS CAVE SUITE WITHOUT OFFICIAL CATEGORY (Невшехир)|13985|Турция
+ADAARAN CLUB RANNALHI **** (Южный Мале Атолл)|5536|Мальдивы
+ADAARAN HUDHURAN FUSHI SELECT **** (Атолл)|9832|Мальдивы
+ADAARAN MEEDHUPPARU SELECT **** (Раа Атолл)|9811|Мальдивы
+ADAARAN PRESTIGE VADOO ***** (Северный Мале Атолл)|5014|Мальдивы
+ADDRESS BOULEVARD DUBAI ***** (Downtown)|6846|ОАЭ
+ADDRESS DUBAI MALL ***** (Downtown)|590|ОАЭ
+ADDRESS DUBAI MALL RESIDENCE Apartments (Downtown)|4974|ОАЭ
+ADDRESS DUBAI MARINA ***** (Dubai Marina)|5435|ОАЭ
+ADDRESS FOUNTAIN VIEWS ***** (Downtown)|13184|ОАЭ
+ADDRESS SKY VIEW ***** (Downtown)|12957|ОАЭ
+ADEN HOTEL CAPPADOCIA 3* (Каппадокия)|14000|Турция
+AGAN HOTEL *** (Сиркеджи)|13827|Турция
+AIR BOSS HOTEL *** (Кючюкчекмедже)|13841|Турция
+AJMAN HOTEL (ex.AJMAN KEMPINSKI HOTEL & RESORT) ***** (Ajman Beach)|45|ОАЭ
+AJMAN SARAY *****+ (Ajman Beach)|4940|ОАЭ
+AJWA HOTEL SULTANAHMET ***** (Султанахмет)|13411|Турция
+AKGUN ISTANBUL HOTEL ***** (Топкапы)|13794|Турция
+AL BAHAR HOTEL & RESORTS (ex. BLUE DIAMOND ALSALAM) ***** (Fujairah Beach)|12952|ОАЭ
+AL BANDAR ARJAAN BY ROTANA DUBAI-CREEK **** (Dubai Creec)|11111|ОАЭ
+AL BANDAR ROTANA DUBAI-CREEK ***** (Dubai Creec)|9675|ОАЭ
+AL HABTOOR POLO RESORT ***** (Dubailand)|11122|ОАЭ
+AL HAMRA RESIDENCE ***** (Ras Al Khaimah Beach)|4827|ОАЭ
+AL HAMRA VILLAGE GOLF & BEACH ***** (Ras Al Khaimah Beach)|79|ОАЭ
+AL MAHA ARJAAN BY ROTANA ABU DHABI **** (Abu Dhabi City)|13136|ОАЭ
+AL MAJAZ PREMIERE DELUXE HOTEL APARTMENTS ***** (Sharjah City)|4868|ОАЭ
+AL RAHA BEACH HOTEL ***** (Abu Dhabi Beach)|36|ОАЭ
+ALBATROS HAGIA SOPHIA HOTEL **** (Султанахмет)|13392|Турция
+ALDEM HOTEL *** (Султанахмет)|13412|Турция
+ALFA HOTEL *** (Фатих)|13968|Турция
+ALFINA HOTEL Other (Каппадокия)|14001|Турция
+ALL SEASONS HOTEL **** (Фатих)|13830|Турция
+ALMINA HOTEL **** (Султанахмет)|13793|Турция
+ALOFT ME’AISAM 4* (Dubai Sport City)|11109|ОАЭ
+ALOFT PALM JUMEIRAH **** (Palm Hotels)|9446|ОАЭ
+AMARI HAVODDA MALDIVES ***** (Гаафу Даалу Атолл)|8964|Мальдивы
+AMAYA KUDA RAH **** (Гаафу Даалу Атолл)|8966|Мальдивы
+AMAZING VIEW Guest House (Тодду)|12823|Мальдивы
+AMBER HOTEL ISTANBUL **** (Аксарай)|13698|Турция
+AMETHYST HOTEL **** (Лалели)|13910|Турция
+AMWAJ ROTANA JUMEIRAH BEACH ***** (Jumeirah Beach Front)|5|ОАЭ
+ANANTARA DHIGU RESORT & SPA ***** (Южный Мале Атолл)|5017|Мальдивы
+ANANTARA DUBAI PALM JUMEIRAH ***** (Palm Hotels)|2661|ОАЭ
+ANANTARA KIHAVAH VILLAS 5* Deluxe (Баа Атолл)|5018|Мальдивы
+ANANTARA VELI RESORT & SPA MALDIVES ***** (Южный Мале Атолл)|8862|Мальдивы
+ANATOLIAN HOUSES **** (Каппадокия)|13960|Турция
+ANGAGA ISLAND RESORT & SPA **** (Хаа Алифу Атолл)|3812|Мальдивы
+ANGSANA IHURU ****+ (Северный Мале Атолл)|5020|Мальдивы
+ANGSANA VELAVARU ***** (Даалу Атолл)|9424|Мальдивы
+ANTIK HOTEL **** (Беязыт)|13413|Турция
+APRILIS GOLD HOTEL **** (Султанахмет)|13786|Турция
+APRILIS HOTEL **** (Султанахмет)|13787|Турция
+ARABIAN PARK HOTEL *** (Dubai Creec)|65|ОАЭ
+ARCADE HOTEL NISANTASI **** (Шишли)|13864|Турция
+ARENA HOTEL **** (Султанахмет)|13788|Турция
+ARGOS IN CAPPADOCIA 4* (Каппадокия)|14003|Турция
+ARIANA SUSTAINABLE LUXURY LODGE 5* (Каппадокия)|14004|Турция
+ARMADA BLUEBAY HOTEL **** (Jumeirah Lakes)|6673|ОАЭ
+ARMANI HOTEL DUBAI ***** (Downtown)|760|ОАЭ
+ARTEMIS CAVE SUITE 4* (Каппадокия)|14005|Турция
+ASCENSION CAVE SUITES 3* (Каппадокия)|14006|Турция
+ASPEN HOTEL *** (Лалели)|13907|Турция
+ASSIANA CAVE HOUSE 2* (Каппадокия)|14007|Турция
+ATANA HOTEL **** (Al Barsha)|5827|ОАЭ
+ATLANTIS THE PALM DUBAI ***** (Palm Hotels)|100|ОАЭ
+ATMOSPHERE KANIFUSHI MALDIVES ***** (Лавиани Атолл)|5023|Мальдивы
+AVICENNA HOTEL **** (Султанахмет)|13393|Турция
+AWAY SUITE *** (Таксим)|13873|Турция
+AYADA MALDIVES ***** (Гаафу Даалу Атолл)|5539|Мальдивы
+AZADE HOTEL **** (Султанахмет)|13390|Турция
+AZUL BEACH RESORT RIVIERA CANCUN **** (Канкун)|12752|Мексика
+BAB AL QASR HOTEL ***** (Abu Dhabi Beach)|6471|ОАЭ
+BAB AL SHAMS DESERT RESORT & SPA ***** (Dubai Desert)|9530|ОАЭ
+BAGLIONI RESORT MALDIVES 5* Deluxe (Даалу Атолл)|13382|Мальдивы
+BAHI AJMAN PALACE ***** (Ajman Beach)|1391|ОАЭ
+BAHIA PRINCIPE FANTASIA PUNTA CANA 5* (Пунта Кана)|6187|Доминикана
+BAHIA PRINCIPE GRAND AQUAMARINE ***** (Пунта Кана)|9741|Доминикана
+BAHIA PRINCIPE GRAND BAVARO 5* (Пунта Кана)|5552|Доминикана
+BAHIA PRINCIPE GRAND PUNTA CANA 5* (Пунта Кана)|778|Доминикана
+BAHIA PRINCIPE GRAND TULUM ***** (Ривьера Майа)|1283|Мексика
+BAHIA PRINCIPE GRAND TURQUESA 5* (Пунта Кана)|4839|Доминикана
+BAHIA PRINCIPE LUXURY AMBAR ***** (Пунта Кана)|740|Доминикана
+BAHIA PRINCIPE LUXURY SIAN KA'AN (Adults only) ***** (Ривьера Майа)|5503|Мексика
+BANDOS ISLAND RESORT & SPA **** (Северный Мале Атолл)|5734|Мальдивы
+BANYAN TREE VABBINFARU ***** (Северный Мале Атолл)|5026|Мальдивы
+BARCELO BAVARO BEACH (Adults Only) 5* (Пунта Кана)|780|Доминикана
+BARCELO BAVARO PALACE 5* (Пунта Кана)|764|Доминикана
+BARCELO MAYA GRAND RESORT ***** (Ривьера Майа)|5879|Мексика
+BARCELO MAYA PALACE ***** (Ривьера Майа)|1286|Мексика
+BARCELO MAYA RIVIERA (ADULTS ONLY) ***** (Ривьера Майа)|13094|Мексика
+BARCELO RESIDENCES DUBAI MARINA ***** (Dubai Marina)|9751|ОАЭ
+BAROS MALDIVES ***** (Северный Мале Атолл)|5027|Мальдивы
+BAZAAR HOTEL *** (Лалели)|13908|Турция
+BEACH ROTANA RESIDENCE **** (Abu Dhabi City)|11807|ОАЭ
+BEACH ROTANA RESORT ***** (Abu Dhabi Beach)|326|ОАЭ
+BEACHWOOD HOTEL & SPA MALDIVES Guest House (Маафуши)|13137|Мальдивы
+BEETHOVEN PREMIUM HOTEL *** (Лалели)|13909|Турция
+BEIT AL BAHAR - JUMEIRAH BEACH HOTEL ***** (Jumeirah Beach)|1450|ОАЭ
+BEKDAS DELUXE HOTEL **** (Лалели)|13904|Турция
+BELLE MAISON HOTEL **** (Шишли)|13861|Турция
+BENLER HOTEL *** (Лалели)|13905|Турция
+BENTLEY HOTEL BY MOLTON **** (Шишли)|13862|Турция
+BERLIN HOTEL *** (Шишли)|13863|Турция
+BEST WESTERN EMPIRE PALACE HOTEL **** (Фатих)|13826|Турция
+BEYAZIT PALACE HOTEL **** (Фатих)|13959|Турция
+BIRBEY HOTEL ** (Лалели)|13902|Турция
+BIYADHOO ISLAND RESORT MALDIVES *** (Южный Мале Атолл)|8997|Мальдивы
+BLACK BIRD HOTEL **** (Лалели)|13903|Турция
+BLACK TULIP HOTEL **** (Фатих)|13824|Турция
+BLUE HOUSE HOTEL *** (Султанахмет)|13783|Турция
+BM BEACH HOTEL **** (Ras Al Khaimah Beach)|84|ОАЭ
+BM BEACH RESORT **** (Ras Al Khaimah Beach)|83|ОАЭ
+BODRUM PARK RESORT 4* - BODRUM **** (Бодрум)|13357|Турция
+BONNINGTON JUMEIRAH LAKES TOWERS DUBAI ***** (Jumeirah Lakes)|807|ОАЭ
+BURJ AL ARAB ***** (Jumeirah Beach)|102|ОАЭ
+BURJUMAN ARJAAN BY ROTANA Apartments (Bur Dubai)|1491|ОАЭ
+BVLGARI RESORT DUBAI ***** (Jumeirah Beach)|8827|ОАЭ
+BW ANTEA PALACE HOTEL **** (Султанахмет)|13782|Турция
+BW EMPIRE PALACE HOTEL **** (Фатих)|13823|Турция
+BY CAPPADOCIA HOTEL 5* (Каппадокия)|14008|Турция
+BYBLOS HOTEL DUBAI **** (Al Barsha)|596|ОАЭ
+BYOTELL HOTEL ISTANBUL ***** (Кадыкёй)|13913|Турция
+CAESARS PALACE BLUEWATERS DUBAI ***** (Dubai Marina)|9985|ОАЭ
+CAESARS RESORT BLUEWATERS DUBAI ***** (Dubai Marina)|9984|ОАЭ
+CANAL CENTRAL BUSINESS BAY ***** (Downtown)|9881|ОАЭ
+CANAREEF RESORT MALDIVES **** (Южный Ари Атолл)|8834|Мальдивы
+CANOPY BY HILTON DUBAI AL SEEF **** (Dubai Creec)|13341|ОАЭ
+CAPPADOCIA ABRAS CAVE HOTEL Other (Каппадокия)|14009|Турция
+CAPPADOCIA CAVE RESORT & SPA 5* (Каппадокия)|14010|Турция
+CAPPADOCIA CAVE SUITES **** (Каппадокия)|13970|Турция
+CAPPADOCIA ESTATES 4* (Каппадокия)|14012|Турция
+CARESSE A LUXURY COLLECTION RESORT&SPA ***** (Бодрум)|13690|Турция
+CARUS CAPPADOCIA Other (Каппадокия)|14013|Турция
+CASA DE CAMPO RESORT & VILLAS ***** (Ла Романа)|11123|Доминикана
+CASSELS AL BARSHA HOTEL DUBAI **** (Al Barsha)|2692|ОАЭ
+CATALONIA BAVARO BEACH GOLF RESORT 5* (Пунта Кана)|772|Доминикана
+CATALONIA COSTA MUJERES ALL SUITES & SPA RESORT ***** (Коста Мухерес)|13984|Мексика
+CATALONIA GRAN DOMINICUS 4* (Ла Романа)|773|Доминикана
+CATALONIA PLAYA MAROMA 4* (Ривьера Майа)|1279|Мексика
+CATALONIA RIVIERA MAYA 4* (Ривьера Майа)|1278|Мексика
+CATALONIA ROYAL BAVARO (Adults Only) 5* (Пунта Кана)|774|Доминикана
+CATALONIA ROYAL LA ROMANA (ADULTS ONLY) ***** (Ла Романа)|9803|Доминикана
+CATALONIA ROYAL TULUM (Adults Only) 5* (Ривьера Майа)|1280|Мексика
+CELAL AGA KONAGI HOTEL ***** (Лалели)|13394|Турция
+CENTARA GRAND ISLAND RESORT & SPA MALDIVES **** (Южный Ари Атолл)|1271|Мальдивы
+CENTARA RAS FUSHI RESORT & SPA **** (Северный Мале Атолл)|5031|Мальдивы
+CENTRO CAPITAL CENTRE *** (Abu Dhabi City)|1621|ОАЭ
+CENTRO SHARJAH HOTEL *** (Sharjah City)|1111|ОАЭ
+CENTRUM HOTEL *** (Сиркеджи)|13844|Турция
+CHEYA DELUXE RESIDENCE NISANTASI **** (Шишли)|13860|Турция
+CHEYA HOTEL BESIKTAS *** (Бешикташ)|13715|Турция
+CHEYA RESIDENCE GUMUSSUYU **** (Бейоглу)|13742|Турция
+CHEYA RESIDENCE RUMELIHISARI **** (Сарыер)|13914|Турция
+CHEYA RESIDENCE TESVIKIYE **** (Шишли)|13917|Турция
+CIHANGIR HOTEL *** (Бейоглу)|13743|Турция
+CIHANGIR PALACE HOTEL **** (Бейоглу)|13912|Турция
+CINNAMON DHONVELI MALDIVES **** (Северный Мале Атолл)|3733|Мальдивы
+CINNAMON HAKURAA HURAA **** (Мииму Атолл)|12771|Мальдивы
+CINNAMON VELIFUSHI MALDIVES ***** (Северный Мале Атолл)|12772|Мальдивы
+CITY MAX AL BARSHA *** (Al Barsha)|779|ОАЭ
+CITY MAX BUR DUBAI *** (Bur Dubai)|802|ОАЭ
+CITY MAX SHARJAH *** (Sharjah City)|1113|ОАЭ
+CITY PREMIERE MARINA HOTEL APARTMENT Apartments (Dubai Marina)|5527|ОАЭ
+CLARION HOTEL GOLDEN HORN **** (Бейоглу)|13741|Турция
+CLASS HOTEL APARTMENTS ***** (Al Barsha)|9419|ОАЭ
+CLOUD 7 HOTEL *** (Бакыркёй)|13707|Турция
+COCO BODU HITHI 5* Deluxe (Северный Мале Атолл)|5036|Мальдивы
+COCO PALM BODU HITHI **** (Мале)|803|Мальдивы
+COCO PALM DHUNI KOLHU ***** (Баа Атолл)|5037|Мальдивы
+COCOGIRI ISLAND RESORT **** (Вааву Атолл)|13938|Мальдивы
+COCOON MALDIVES ***** (Лавиани Атолл)|1360|Мальдивы
+COMO COCOA ISLAND 5* Deluxe (Южный Мале Атолл)|5034|Мальдивы
+COMO MAALIFUSHI ***** (Маафуши)|9000|Мальдивы
+CONRAD MALDIVES RANGALI ISLAND 5* Deluxe (Южный Ари Атолл)|5038|Мальдивы
+CONSTANCE HALAVELI 5* Deluxe (Северный Ари Атолл)|5039|Мальдивы
+CONSTANCE MOOFUSHI ****+ (Южный Ари Атолл)|5040|Мальдивы
+CONTINENTAL TUNEL RESIDENCE ***** (Бейоглу)|13719|Турция
+COPTHORNE HOTEL DUBAI **** (Deira)|598|ОАЭ
+COPTHORNE HOTEL SHARJAH **** (Sharjah City)|4867|ОАЭ
+CORAL BEACH RESORT SHARJAH **** (Sharjah Beach)|91|ОАЭ
+CORNICHE HOTEL ABU DHABI ***** (Abu Dhabi City)|13343|ОАЭ
+CORNICHE HOTEL SHARJAH ***** (Sharjah City)|95|ОАЭ
+COURTYARD MARRIOTT ISTANBUL **** (Халкали)|13835|Турция
+CROWNE PLAZA FLORYA ***** (Бакыркёй)|13705|Турция
+DAMAC LIVING - THE DISTINCTION ***** (Downtown)|10062|ОАЭ
+DAMAC MAISON CANAL VIEW Apartments (Sheikh Zayed Road)|5535|ОАЭ
+DAMAC MAISON COUR JARDIN Apartments (Sheikh Zayed Road)|5704|ОАЭ
+DAMAC MAISON DUBAI MALL STREET Apartments (Downtown)|5449|ОАЭ
+DARKHILL HOTEL **** (Лалели)|13395|Турция
+DEDEMAN ISTANBUL ***** (Бешикташ)|13714|Турция
+DELTA HOTELS JUMEIRAH BEACH DUBAI (ex. Ramada Plaza JBR) **** (Jumeirah Beach Front)|1277|ОАЭ
+DELUXE GOLDEN HORN HOTEL **** (Султанахмет)|13781|Турция
+DELUXE NEW PORT HOTEL *** (Фатих)|13821|Турция
+DENCITY HOTEL **** (Таксим)|13872|Турция
+DENIZ HOUSES HOTEL IN SULTANAHMET *** (Фатих)|13957|Турция
+DHIGALI MALDIVES ***** (Северный Мале Атолл)|8647|Мальдивы
+DHIGGIRI TOURIST RESORT **** (Вааву Атолл)|9007|Мальдивы
+DHIGUFARU ISLAND RESORT ***** (Баа Атолл)|9429|Мальдивы
+DIVAN ISTANBUL CITY **** (Шишли)|13964|Турция
+DOORS OF CAPPADOCIA 4* (Каппадокия)|14014|Турция
+DOSSO DOSSI HOTEL OLD CITY **** (Султанахмет)|13779|Турция
+DOUBLE TREE BY HILTON AL BARSHA **** (Al Barsha)|5304|ОАЭ
+DOUBLE TREE BY HILTON DUBAI BUSINESS BAY ***** (Downtown)|8390|ОАЭ
+DOUBLE TREE BY HILTON DUBAI JUMEIRAH BEACH **** (Jumeirah Beach)|5424|ОАЭ
+DOUBLE TREE BY HILTON RAS AL KHAIMAH **** (Ras Al Khaimah City)|1565|ОАЭ
+DOUBLE TREE BY HILTON RESORT & SPA MARJAN ***** (Ras Al Khaimah Beach)|4945|ОАЭ
+DOUBLETREE BY HILTON ESENTEPE ***** (Шишли)|13859|Турция
+DOUBLETREE BY HILTON RAS AL KHAIMAH CORNICHE HOTEL & RESIDENCES **** (Ras Al Khaimah City)|13995|ОАЭ
+DOUBLETREE BY HILTON SIRKECI **** (Сиркеджи)|13842|Турция
+DREAMLAND RESORT & SPA ***** (Баа Атолл)|9698|Мальдивы
+DRIFT THELU VELIGA RETREAT MALDIVES **** (Северный Ари Атолл)|13149|Мальдивы
+DUBAI MARINE BEACH RESORT & SPA ***** (Jumeirah Beach)|161|ОАЭ
+DUJA BODRUM 5* - BODRUM ***** (Бодрум)|13363|Турция
+DUKES THE PALM, A ROYAL HIDEAWAY HOTEL ***** (Palm Hotels)|8277|ОАЭ
+DUSIT D2 KENZ HOTEL **** (Al Barsha)|19|ОАЭ
+DUSIT THANI MALDIVES ***** (Баа Атолл)|5041|Мальдивы
+EDIBE SULTAN HOTEL *** (Султанахмет)|13780|Турция
+EL DORADO CASITAS ROYALE A GOURMET ***** (Ривьера Майа)|5910|Мексика
+EL DORADO MAROMA A GOURMET INCLUSIVE RESORT (Adults only) ***** (Ривьера Майа)|5909|Мексика
+EL DORADO ROYALE A GOURMET INCLUSIVE RESORT ***** (Ривьера Майа)|5908|Мексика
+EL DORADO SEASIDE SUITES A GOURMET INCLUSIVE RESORT (Adults only) **** (Ривьера Майа)|12756|Мексика
+ELIKA CAVE SUITES 2* (Каппадокия)|14015|Турция
+ELITE BYBLOS HOTEL ***** (Al Barsha)|1331|ОАЭ
+ELITE WORLD BUSINESS HOTEL ***** (Кючюкчекмедже)|13847|Турция
+ELITE WORLD HOTEL PRESTIGE **** (Таксим)|13871|Турция
+ELITE WORLD ISTANBUL ***** (Бейоглу)|13740|Турция
+ELLAIDHOO MALDIVES BY CINNAMON **** (Северный Ари Атолл)|453|Мальдивы
+EMBUDU VILLAGE *** (Атолл)|9002|Мальдивы
+EMERALD MALDIVES RESORT & SPA ***** (Раа Атолл)|9820|Мальдивы
+EMERALD PALACE KEMPINSKI ***** (Palm Hotels)|11797|ОАЭ
+EMIN HOTEL *** (Лалели)|13899|Турция
+EMIRATES PALACE ***** (Abu Dhabi Beach)|37|ОАЭ
+EQUATOR VILLAGE - GAN *** (Адду Атолл)|11116|Мальдивы
+ERIYADU ISLAND RESORT *** (Атолл)|5043|Мальдивы
+EUROSTARS HOTEL OLD CITY **** (Стамбул)|13820|Турция
+FAARUFUSHI MALDIVES ***** (Раа Атолл)|9831|Мальдивы
+FAIRMONT AJMAN ***** (Ajman Beach)|5706|ОАЭ
+FAIRMONT BAB AL BAHR ABU DHABI ***** (Abu Dhabi Beach)|1562|ОАЭ
+FAIRMONT FUJAIRAH BEACH RESORT ***** (Fujairah Beach)|6759|ОАЭ
+FAIRMONT HOTEL DUBAI ***** (Sheikh Zayed Road)|571|ОАЭ
+FAIRMONT MALDIVES SIRRU FEN FUSHI ***** (Мале)|9431|Мальдивы
+FAIRMONT THE PALM DUBAI ***** (Palm Hotels)|1448|ОАЭ
+FAM TRIP ***** (Канкун)|13983|Мексика
+FAMILY RESORT SPA HOTEL ***** (Кумбургаз)|13956|Турция
+FAROS HOTEL OLD CITY **** (Султанахмет)|13778|Турция
+FAROS HOTEL TAKSIM **** (Таксим)|13870|Турция
+FAVORI HOTEL **** (Шишли)|13858|Турция
+FERMAN APART HOTEL **** (Шишли)|13955|Турция
+FERMAN HILAL HOTEL *** (Бейоглу)|13911|Турция
+FERMAN HOTEL OLD CITY **** (Фатих)|13812|Турция
+FERMAN KONAK HOTEL *** (Стамбул)|13813|Турция
+FERMAN PERA HOTEL *** (Бейоглу)|13739|Турция
+FIHALHOHI ISLAND RESORT **** (Южный Мале Атолл)|8995|Мальдивы
+FILITHEYO ISLAND RESORT **** (Гаафу Алифу Атолл)|5044|Мальдивы
+FIRST CENTRAL HOTEL SUITES ***** (Al Barsha)|9420|ОАЭ
+FIVE PALM JUMEIRAH ***** (Palm Hotels)|5498|ОАЭ
+FORS HOTEL *** (Султанахмет)|13777|Турция
+FOUR POINTS BY SHERATON, SHARJAH **** (Sharjah City)|10000|ОАЭ
+FOUR SEASONS KUDA HURAA 5* Deluxe (Северный Мале Атолл)|5046|Мальдивы
+FOUR SEASONS LANDAA GIRAAVARU 5* Deluxe (Атолл)|5047|Мальдивы
+FOUR SEASONS RESORT DUBAI AT JUMEIRAH BEACH ***** (Jumeirah Beach)|5529|ОАЭ
+FUAT PASA YALISI **** (Сарыер)|13818|Турция
+FUJAIRAH ROTANA RESORT & SPA ***** (Fujairah Beach)|72|ОАЭ
+FUN ISLAND RESORT *** (Южный Мале Атолл)|5048|Мальдивы
+FURAVERI ISLAND RESORT **** (Раа Атолл)|4548|Мальдивы
+FUSHIFARU MALDIVES ***** (Лавиани Атолл)|8906|Мальдивы
+GANGEHI ISLAND RESORT **** (Южный Ари Атолл)|9432|Мальдивы
+GENOVA HOTEL *** (Стамбул)|13898|Турция
+GEVORA HOTEL **** (Sheikh Zayed Road)|12428|ОАЭ
+GILI LANKANFUSHI 5* Deluxe (Атолл)|5049|Мальдивы
+GK REGENCY SUITES **** (Шишли)|13857|Турция
+GOLDEN CITY HOTEL ISTANBUL **** (Бейоглу)|13738|Турция
+GOLDEN HORN ISTANBUL **** (Сиркеджи)|13396|Турция
+GOLDEN HORN SIRKECI **** (Фатих)|13397|Турция
+GOLDEN WAY HOTEL **** (Эсенлер)|13745|Турция
+GOREME KAYA HOTEL 3* (Каппадокия)|14016|Турция
+GRAND ANT HOTEL **** (Лалели)|13892|Турция
+GRAND BAHIA PRINCIPE COBA ***** (Ривьера Майа)|1281|Мексика
+GRAND BAHIA PRINCIPE LA ROMANA ***** (Ла Романа)|1090|Доминикана
+GRAND BEYAZIT HOTEL **** (Фатих)|13806|Турция
+GRAND COSMOPOLITAN HOTEL ***** (Al Barsha)|13996|ОАЭ
+GRAND DURMAZ HOTEL **** (Лалели)|12389|Турция
+GRAND EMIN HOTEL *** (Стамбул)|13894|Турция
+GRAND EXCELSIOR DUBAI AL BARSHA **** (Al Barsha)|5325|ОАЭ
+GRAND HILARIUM HOTEL **** (Лалели)|12379|Турция
+GRAND HOTEL DE PERA **** (Бейоглу)|12390|Турция
+GRAND HOTEL GULSOY **** (Лалели)|13889|Турция
+GRAND HYATT ABU DHABI HOTEL & RESIDENCES EMIRATES PEARL ***** (Abu Dhabi Beach)|9930|ОАЭ
+GRAND HYATT DUBAI ***** (Dubai Creec)|21|ОАЭ
+GRAND MAKEL HOTEL ***** (Зейтинбурну)|13803|Турция
+GRAND MARCELLO HOTEL **** (Стамбул)|13896|Турция
+GRAND MILAN HOTEL *** (Лалели)|13398|Турция
+GRAND OZTANIK HOTEL **** (Бейоглу)|13737|Турция
+GRAND PALLADIUM PUNTA CANA RESORT, SPA & CASINO 5* (Пунта Кана)|1010|Доминикана
+GRAND PAMIR HOTEL *** (Лалели)|13888|Турция
+GRAND PARK KODHIPPARU MALDIVES ***** (Мале)|9351|Мальдивы
+GRAND STAR HOTEL **** (Таксим)|13868|Турция
+GRAND STAY HOTEL, DUBAI **** (Sheikh Zayed Road)|758|ОАЭ
+GRAND WASHINGTON HOTEL **** (Лалели)|13400|Турция
+GRAND YAVUZ HOTEL **** (Султанахмет)|13401|Турция
+GREAT FORTUNE HOTEL **** (Султанахмет)|13775|Турция
+GROSVENOR HOUSE DUBAI ***** (Dubai Marina)|22|ОАЭ
+HABTOOR GRAND RESORT & SPA ***** (Jumeirah Beach)|8|ОАЭ
+HABTOOR PALACE, LXR HOTELS & RESORTS ***** (Sheikh Zayed Road)|5434|ОАЭ
+HALI HOTEL *** (Султанахмет)|13402|Турция
+HAMIDIYE HOTEL *** (Лалели)|13890|Турция
+HAMPTON by HILTON DUBAI AL SEEF *** (Dubai Creec)|9277|ОАЭ
+HARD ROCK CANCUN ***** (Канкун)|5006|Мексика
+HARD ROCK HOTEL & CASINO PUNTA CANA 5* VIP (Пунта Кана)|847|Доминикана
+HARD ROCK HOTEL MALDIVES **** (Южный Мале Атолл)|11812|Мальдивы
+HARD ROCK HOTEL VALLARTA ***** (Нуэво Вальярта)|233|Мексика
+HARD ROCK RIVIERA MAYA ***** (Пуэрто-Авентурас)|5007|Мексика
+HELIKE CAVE HOTEL 3* (Каппадокия)|14017|Турция
+HERITANCE AARAH ***** (Раа Атолл)|9822|Мальдивы
+HIDEAWAY AT ROYALTON RIVIERA CANCUN ***** (Канкун)|5942|Мексика
+HIDEAWAY BEACH RESORT & SPA ***** (Атолл)|5541|Мальдивы
+HILTON AL HAMRA BEACH & GOLF RESORT ***** (Ras Al Khaimah Beach)|78|ОАЭ
+HILTON BODRUM TURKBUKU RESORT & SPA ***** (Бодрум)|9519|Турция
+HILTON BODRUM TURKBUKU RESORT & SPA SPECIAL ROOM 5* - BODRUM ***** (Бодрум)|13365|Турция
+HILTON DUBAI AL HABTOOR CITY ***** (Sheikh Zayed Road)|6525|ОАЭ
+HILTON DUBAI CREEK ***** (Deira)|573|ОАЭ
+HILTON DUBAI JUMEIRAH ***** (Jumeirah Beach)|9|ОАЭ
+HILTON DUBAI THE WALK **** (Jumeirah Beach Front)|1218|ОАЭ
+HILTON GARDEN INN BEYLIKDUZU **** (Эсеньюрт)|13748|Турция
+HILTON GARDEN INN DUBAI - AL JADAF **** (Bur Dubai)|9997|ОАЭ
+HILTON GARDEN INN DUBAI AL MINA **** (Bur Dubai)|5822|ОАЭ
+HILTON GARDEN INN ISTANBUL ATATURK AIRPORT **** (Бахчелиэвлер)|13702|Турция
+HILTON GARDEN INN MALL OF THE EMIRATES **** (Al Barsha)|5839|ОАЭ
+HILTON GARDEN INN RAS AL KHAIMAH **** (Ras Al Khaimah City)|8294|ОАЭ
+HILTON LA ROMANA, AN ALL INCLUSIVE FAMILY RESORT 5* (Ла Романа)|12524|Доминикана
+HILTON LA ROMANA, AN ALL-INCLUSIVE ADULT RESORT 5* (Ла Романа)|12525|Доминикана
+HILTON RAS AL KHAIMAH RESORT & SPA ***** (Ras Al Khaimah Beach)|80|ОАЭ
+HISTORIA HOTEL *** (Фатих)|13403|Турция
+HISTORY HOTEL *** (Лалели)|13404|Турция
+HOLIDAY CAVE HOTEL 3* (Каппадокия)|14018|Турция
+HOLIDAY INN EXPRESS ALTUNIZADE *** (Ускюдар)|13799|Турция
+HOLIDAY INN EXPRESS DUBAI JUMEIRAH ** (Bur Dubai)|1406|ОАЭ
+HOLIDAY INN ISTANBUL CITY ***** (Фатих)|13792|Турция
+HOLIDAY INN ISTANBUL OLD CITY **** (Лалели)|13407|Турция
+HOLIDAY INN KANDOOMA MALDIVES **** (Южный Мале Атолл)|5050|Мальдивы
+HOLIDAY ISLAND RESORT & SPA **** (Южный Ари Атолл)|1255|Мальдивы
+HOME STAY HOME SISLI *** (Шишли)|13856|Турция
+HOTEL BERGAMA ISTANBUL *** (Лалели)|13906|Турция
+HOTEL FUAR *** (Фатих)|13963|Турция
+HOTEL ILKAY *** (Фатих)|13802|Турция
+HOTELLINO ISTANBUL **** (Фатих)|13790|Турция
+HURAWALHI RESORT MALDIVES ***** (Лавиани Атолл)|9435|Мальдивы
+HURRY-INN HOTEL ***** (Гюнгёрен)|13833|Турция
+HUVAFEN FUSHI 5* Deluxe (Атолл)|5052|Мальдивы
+HYATT ANDAZ DUBAI THE PALM ***** (Palm Hotels)|12822|ОАЭ
+HYATT ZILARA CANCUN ***** (Канкун)|13990|Мексика
+HYATT ZILARA CAP CANA (Adults only) ***** (Пунта Кана)|5941|Доминикана
+HYATT ZIVA CANCUN ***** (Канкун)|13988|Мексика
+HYATT ZIVA CAP CANA ***** (Пунта Кана)|12994|Доминикана
+HYATT ZIVA LOS CABOS ***** (Сан-Хосе-дель-Кабо)|13989|Мексика
+HYATT ZIVA PUERTO VALLARTA ***** (Пуэрто-Вальярта)|13981|Мексика
+IBIS AL BARSHA DUBAI *** (Al Barsha)|635|ОАЭ
+IBIS ESENYURT *** (Эсеньюрт)|13747|Турция
+IBIS FUJAIRAH *** (Fujairah City)|11115|ОАЭ
+IBIS HOTEL AL RIGGA DUBAI ** (Deira)|759|ОАЭ
+IBIS HOTEL DEIRA CITY CENTRE ** (Deira)|653|ОАЭ
+IBIS HOTEL ISTANBUL ZEYTINBURNU *** (Зейтинбурну)|13805|Турция
+IBIS ISTANBUL TUZLA *** (Тузла)|13797|Турция
+IBIS MALL OF THE EMIRATES DUBAI *** (Al Barsha)|1334|ОАЭ
+ILKBAL DELUXE HOTEL **** (Лалели)|13885|Турция
+IMPERIAL CAVE SUITES & SPA HOTEL Other (Каппадокия)|14019|Турция
+IMPRESSIVE PREMIUM RESORT & SPA PUNTA CANA ***** (Пунта Кана)|9876|Доминикана
+IMPRESSIVE RESORT & SPA PUNTA CANA ***** (Пунта Кана)|9866|Доминикана
+INNAHURA MALDIVES RESORT **** (Лавиани Атолл)|9821|Мальдивы
+INNOVA SULTANAHMET ISTANBUL HOTEL **** (Султанахмет)|13772|Турция
+INTERCONTINENTAL FUJAIRAH RESORT ***** (Fujairah Beach)|8555|ОАЭ
+ISTANBUL ROYAL HOTEL **** (Лалели)|13882|Турция
+ISTANBUL TREND HOTEL **** (Лалели)|13883|Турция
+JA BEACH HOTEL ***** (Jebel Ali)|10|ОАЭ
+JA LAKE VIEW HOTEL ***** (Jebel Ali)|13105|ОАЭ
+JA MANAFARU ***** (Атолл)|5542|Мальдивы
+JA OASIS BEACH TOWER Apartments (Dubai Marina)|101|ОАЭ
+JA PALM TREE COURT ***** (Jebel Ali)|11|ОАЭ
+JANNAH MARINA HOTEL APARTMENTS ***** (Dubai Marina)|5484|ОАЭ
+JANNAH PLACE DUBAI MARINA ***** (Dubai Marina)|9758|ОАЭ
+JUMEIRAH AL WATHBA DESERT RESORT AND SPA ***** (Abu Dhabi City)|11810|ОАЭ
+JUMEIRAH AT SAADIYAT ISLAND RESORT ***** (Saadiyat Island)|9851|ОАЭ
+JUMEIRAH BEACH HOTEL ***** (Jumeirah Beach)|12|ОАЭ
+JUMEIRAH CREEKSIDE HOTEL ***** (Deira)|1616|ОАЭ
+JUMEIRAH ROTANA HOTEL DUBAI **** (Bur Dubai)|562|ОАЭ
+JUMEIRAH ZABEEL SARAY ***** (Palm Hotels)|843|ОАЭ
+JUMEIRAH ZABEEL SARAY ROYAL RESIDENCE ***** (Palm Hotels)|1449|ОАЭ
+JW MARRIOTT MALDIVES RESORT & SPA ***** (Шавийани)|13270|Мальдивы
+JW MARRIOTT MARQUIS ***** (Sheikh Zayed Road)|5265|ОАЭ
+KALYON HOTEL ISTANBUL **** (Султанахмет)|13770|Турция
+KANDIMA MALDIVES ***** (Даалу Атолл)|8993|Мальдивы
+KANDOLHU ISLAND ***** (Северный Ари Атолл)|9437|Мальдивы
+KARLIK EVI BOUTIQUE HOTEL Other (Каппадокия)|14020|Турция
+KAYA ISTANBUL FAIR & CONVENTION CENTER ***** (Эсеньюрт)|13746|Турция
+KAYA MADRID HOTEL *** (Лалели)|13884|Турция
+KAYA PALAZZO RESORT & RESIDENCES LE CHIC BODRUM ***** (Бодрум)|13361|Турция
+KEFALUKA RESORT 5* - BODRUM ***** (Бодрум)|13366|Турция
+KEMPINSKI HOTEL & RESIDENCE PALM JUMEIRAH ***** (Palm Hotels)|761|ОАЭ
+KEMPINSKI HOTEL MALL OF EMIRATES DUBAI ***** (Sheikh Zayed Road)|576|ОАЭ
+KHALIDIYA PALACE RAYHAAN by ROTANA ***** (Abu Dhabi Beach)|427|ОАЭ
+KIHA BEACH MALDIVES **** (Дараванду)|8719|Мальдивы
+KIHAA MALDIVES ***** (Баа Атолл)|8875|Мальдивы
+KOMANDOO MALDIVES ISLAND RESORT ***** (Лавиани Атолл)|9438|Мальдивы
+KUDA FUSHI RESORT & SPA ***** (Раа Атолл)|8880|Мальдивы
+KUDADDOO MALDIVES PRIVATE ISLAND ***** (Лавиани Атолл)|11118|Мальдивы
+KUDAFUSHI RESORT & SPA ***** (Раа Атолл)|9439|Мальдивы
+KUMBURGAZ MARINE PRINCESS HOTEL ***** (Бююкчекмедже)|13953|Турция
+KUPELI PALACE HOTEL *** (Султанахмет)|13771|Турция
+KURAMATHI ISLAND MALDIVES **** (Атолл)|4828|Мальдивы
+KUREDU ISLAND RESORT & SPA **** (Атолл)|1256|Мальдивы
+KURUMBA MALDIVES **** (Северный Мале Атолл)|5058|Мальдивы
+LA BLANCHE RESORT & SPA BODRUM 5* ***** (Бодрум)|13373|Турция
+LALAHAN HOTEL **** (Фатих)|13776|Турция
+LANDMARK GRAND HOTEL **** (Deira)|1069|ОАЭ
+LANDMARK HOTEL RIQQA DUBAI **** (Deira)|612|ОАЭ
+LAPITA DUBAI PARKS AND RESORTS ***** (Jebel Ali)|6790|ОАЭ
+LATANYA PARK RESORT HOTEL 4* - BODRUM **** (Бодрум)|13358|Турция
+LE MERIDIEN AL AQAH BEACH RESORT & SPA ***** (Fujairah Beach)|75|ОАЭ
+LE MERIDIEN BODRUM RESORT ***** (Бодрум)|13683|Турция
+LE MERIDIEN MINA SEYAHI BEACH ***** (Jumeirah Beach)|98|ОАЭ
+LE ROYAL MERIDIEN ABU DHABI ***** (Abu Dhabi City)|42|ОАЭ
+LE ROYAL MERIDIEN BEACH RESORTS & SPA ***** (Jumeirah Beach)|13|ОАЭ
+LEVNI HOTEL ISTANBUL. **** (Фатих)|13769|Турция
+LILY BEACH RESORT & SPA AT HUVAHENDHOO ***** (Атолл)|5059|Мальдивы
+LISTANA HOTEL **** (Шишли)|13855|Турция
+LIYELA RETREAT MALDIVES Guest House (Маафуши)|11813|Мальдивы
+LOPESAN COSTA BAVARO RESORT, SPA & CASINO ***** (Пунта Кана)|13016|Доминикана
+LOU LOU'A BEACH RESORT *** (Sharjah Beach)|92|ОАЭ
+LUJO ART & JOY BODRUM ***** (Бодрум)|9521|Турция
+LUX NORTH MALE ATOLL ***** (Северный Мале Атолл)|9441|Мальдивы
+LUX* SOUTH ARI ATOLL ***** (Южный Ари Атолл)|9442|Мальдивы
+LUXURY BAHIA PRINCIPE AKUMAL ***** (Ривьера Майа)|1282|Мексика
+MAAFUSHIVARU ISLAND RESORT **** (Атолл)|5543|Мальдивы
+MADINAT JUMEIRAH - AL QASR ***** (Jumeirah Beach)|4|ОАЭ
+MADINAT JUMEIRAH - DAR AL MASYAF ***** (Jumeirah Beach)|7|ОАЭ
+MADINAT JUMEIRAH - JUMEIRAH AL NASEEM ***** (Jumeirah Beach)|6473|ОАЭ
+MADINAT JUMEIRAH - MALAKIYA VILLAS ***** (Jumeirah Beach)|8223|ОАЭ
+MADINAT JUMEIRAH - MINA A'SALAM ***** (Jumeirah Beach)|14|ОАЭ
+MAJESTIC COLONIAL PUNTA CANA 5* (Пунта Кана)|747|Доминикана
+MAJESTIC ELEGANCE COSTA MUJERES ***** (Коста Мухерес)|12171|Мексика
+MAJESTIC ELEGANCE PUNTA CANA 5* (Пунта Кана)|746|Доминикана
+MAJESTIC MIRAGE PUNTA CANA 5* (Пунта Кана)|6188|Доминикана
+MAKUNUDU ISLAND **** (Северный Мале Атолл)|9443|Мальдивы
+MALA BOUTIQUE INN Guest House (Южный Ари Атолл)|13120|Мальдивы
+MALAHINI KUDA BANDOS **** (Северный Мале Атолл)|8879|Мальдивы
+MANDARIN ORIENTAL BODRUM ***** (Бодрум)|11774|Турция
+MANDARIN ORIENTAL JUMEIRAH DUBAI ***** (Jumeirah Beach)|9882|ОАЭ
+MARCELLO HOTEL *** (Лалели)|13880|Турция
+MARE PARK HOTEL **** (Шишли)|13854|Турция
+MARGARITAVILLE ISLAND RESERVE RIVIERA CANCUN BY KARISMA ***** (Канкун)|13993|Мексика
+MARINA BYBLOS **** (Dubai Marina)|1232|ОАЭ
+MARINA VIEW HOTEL **** (Dubai Marina)|1233|ОАЭ
+MARJAN ISLAND RESORT & SPA ***** (Ras Al Khaimah Beach)|5340|ОАЭ
+MARMARAY HOTEL **** (Аксарай)|13697|Турция
+MARNAS HOTEL BAYRAMPASA **** (Байрампаша)|13709|Турция
+MEDHUFUSHI ISLAND RESORT **** (Атолл)|5061|Мальдивы
+MEDIA ROTANA DUBAI ***** (Al Barsha)|579|ОАЭ
+MEERU ISLAND RESORT & SPA **** (Атолл)|954|Мальдивы
+MELIS CAVE HOTEL Other (Каппадокия)|14021|Турция
+MENA PLAZA HOTEL AL BARSHA ***** (Al Barsha)|11799|ОАЭ
+MERCIA HOTEL **** (Бююкчекмедже)|13744|Турция
+MERCURE HOTEL ISTANBUL ALTUNIZADE **** (Ускюдар)|13798|Турция
+MERCURE HOTEL ISTANBUL TAKSIM **** (Бейоглу)|13733|Турция
+MERCURE HOTELS SUITES & APARTMENTS Apartments (Al Barsha)|1511|ОАЭ
+MERCURE MALDIVES KOODDOO RESORT **** (Гаафу Алифу Атолл)|9444|Мальдивы
+METROPOLITAN HOTEL DUBAI **** (Sheikh Zayed Road)|58|ОАЭ
+METROPOLITAN HOTEL TAKSIM **** (Бейоглу)|13734|Турция
+MILAIDHOO ISLAND MALDIVES ***** (Баа Атолл)|9445|Мальдивы
+MILANO HOTEL **** (Фатих)|13768|Турция
+MILLENNIUM AL BARSHA **** (Al Barsha)|13380|ОАЭ
+MILLENNIUM CENTRAL DOWNTOWN HOTEL **** (Downtown)|13113|ОАЭ
+MILLENNIUM MONTROSE EXECUTIVE APARTMENTS *** (Al Barsha)|13972|ОАЭ
+MILLENNIUM PLACE MARINA **** (Dubai Marina)|12972|ОАЭ
+MILLENNIUM PLAZA HOTEL DUBAI ***** (Sheikh Zayed Road)|13139|ОАЭ
+MILLSTONE CAVE SUITES Other (Каппадокия)|14022|Турция
+MIRAMAR AL AQAH BEACH RESORT ***** (Fujairah Beach)|76|ОАЭ
+MIRIHI ISLAND RESORT **** (Южный Ари Атолл)|5062|Мальдивы
+MITHRA CAVE HOTEL 4* (Каппадокия)|14023|Турция
+MOLTON MONAPART MECIDIYEKOY **** (Шишли)|13916|Турция
+MOMENTO HOTEL **** (Султанахмет)|13767|Турция
+MOVENPICK GRAND AL BUSTAN ***** (Deira)|6819|ОАЭ
+MOVENPICK HOTEL & APARTMENTS BUR DUBAI ***** (Bur Dubai)|13339|ОАЭ
+MOVENPICK HOTEL IBN BATTUTA GATE ***** (Jebel Ali)|5266|ОАЭ
+MOVENPICK HOTEL JUMEIRAH BEACH DUBAI ***** (Jumeirah Beach Front)|582|ОАЭ
+MOVENPICK HOTEL JUMEIRAH LAKES TOWERS ***** (Jumeirah Lakes)|5491|ОАЭ
+MOVENPICK RESORT KUREDHIVARU MALDIVES ***** (Нону Атолл)|9687|Мальдивы
+NALADHU PRIVATE ISLAND ***** (Южный Мале Атолл)|8994|Мальдивы
+NAUMPASA KONAGI *** (Бейоглу)|13730|Турция
+NICKELODEON HOTELS AND RESORTS ***** (Пунта Кана)|9989|Доминикана
+NIDYA HOTEL GALATAPORT **** (Бейоглу)|13731|Турция
+NIKA ISLAND RESORT ***** (Северный Ари Атолл)|5064|Мальдивы
+NIKKI BEACH RESORT AND SPA ***** (Jumeirah Beach)|6130|ОАЭ
+NIYAMA MALDIVES 5* Deluxe (Атолл)|5065|Мальдивы
+NOKU MALDIVES ***** (Нону Атолл)|9447|Мальдивы
+NORDSTERN HOTEL GALATA ** (Бейоглу)|13729|Турция
+NOVOTEL DUBAI AL BARSHA **** (Al Barsha)|4880|ОАЭ
+NOVOTEL ISTANBUL BOSPHORUS ***** (Стамбул)|13952|Турция
+NOVOTEL ISTANBUL ZEYTINBURNU **** (Стамбул)|13951|Турция
+NOWY EFENDI HOTEL **** (Султанахмет)|13765|Турция
+OBLU BY ATMOSPHERE AT HELENGELI **** (Северный Мале Атолл)|8841|Мальдивы
+OBLU SELECT AT SANGELI ***** (Мале)|8842|Мальдивы
+OCCIDENTAL SHARJAH GRAND **** (Sharjah Beach)|94|ОАЭ
+OCEAN CORAL & TURQUESA ***** (Ривьера Майа)|5923|Мексика
+OCEAN MAYA ROYALE (ADULTS ONLY) ***** (Ривьера Майа)|5828|Мексика
+OCEAN RIVIERA PARADISE ***** (Ривьера Майа)|5973|Мексика
+OCEAN VIEW HOTEL ***** (Jumeirah Beach Front)|1454|ОАЭ
+OCEANIC KHORFAKKAN RESORT & SPA **** (Fujairah Beach)|165|ОАЭ
+ONE & ONLY REETHI RAH MALDIVES 5* Deluxe (Атолл)|5067|Мальдивы
+ONE & ONLY ROYAL MIRAGE - ARABIAN COURT ***** (Jumeirah Beach)|6505|ОАЭ
+ONE & ONLY ROYAL MIRAGE - RESIDENCE & SPA ***** (Jumeirah Beach)|6504|ОАЭ
+ONE & ONLY THE PALM ***** (Palm Hotels)|445|ОАЭ
+ORAN HOTEL **** (Лалели)|13879|Турция
+ORCHID HOTEL DUBAI *** (Deira)|69|ОАЭ
+ORKA ROYAL HOTEL **** (Сиркеджи)|13834|Турция
+ORTAKOY PRINCESS HOTEL ***** (Бешикташ)|13713|Турция
+OUTRIGGER KONOTTA MALDIVES RESORT ***** (Гаафу Даалу Атолл)|9448|Мальдивы
+OZEN BY ATMOSPHERE ***** (Южный Мале Атолл)|8844|Мальдивы
+OZEN RESERVE BOLIFUSHI (EX. JUMEIRAH VITTAVELI) 5* Deluxe (Южный Мале Атолл)|5055|Мальдивы
+PALACE DOWNTOWN DUBAI ***** (Downtown)|2693|ОАЭ
+PALAFITOS OVERWATER BUNGALOWS (Adults Only) ***** (Ривьера Майа)|12755|Мексика
+PALAZZO VERSACE DUBAI ***** (Dubai Creec)|5736|ОАЭ
+PALDE HOTEL & SPA **** (Сиркеджи)|13408|Турция
+PALM BEACH RESORT & SPA **** (Атолл)|5068|Мальдивы
+PANAMA JACK RESORTS CANCUN ***** (Канкун)|13980|Мексика
+PANAMA JACK RESORTS PLAYA DEL CARMEN ***** (Плая-дель-Кармен)|13982|Мексика
+PARADISE ISLAND RESORT & SPA ***** (Северный Мале Атолл)|953|Мальдивы
+PARK DEDEMAN LEVENT **** (Шишли)|13853|Турция
+PARK HOTEL TUZLA **** (Тузла)|13796|Турция
+PARK HYATT ABU DHABI HOTEL AND VILLAS ***** (Saadiyat Island)|1557|ОАЭ
+PARK INN BY RADISSON ASIA KAVACIK **** (Бейкоз)|13717|Турция
+PARK ROTANA ABU DHABI ***** (Abu Dhabi City)|431|ОАЭ
+PEARL MARINA HOTEL APARTMENTS Apartments (Dubai Marina)|1523|ОАЭ
+PERA PALACE HOTEL ***** (Бейоглу)|13727|Турция
+PERA TULIP HOTEL **** (Бейоглу)|13725|Турция
+PLANET HOLLYWOOD CANCUN **** (Канкун)|12727|Мексика
+PLUMERIA MALDIVES Guest House (Тинаду)|8721|Мальдивы
+PORT BOSPHORUS HOTEL **** (Бейоглу)|13728|Турция
+PREMIST HOTELS **** (Стамбул)|13936|Турция
+PRESTIGE HOTEL ISTANBUL *** (Лалели)|13878|Турция
+PULLMAN MALDIVES MAAMUTAA ***** (Гаафу Алифу Атолл)|12810|Мальдивы
+QUA HOTEL ***** (Багджылар)|13701|Турция
+RADISSON BLU HOTEL & RESORT ABU DHABI CORNICHE ***** (Abu Dhabi Beach)|38|ОАЭ
+RADISSON BLU HOTEL DUBAI DEIRA CREEK **** (Deira)|584|ОАЭ
+RADISSON BLU HOTEL ISTANBUL OTTOMARE ***** (Стамбул)|13935|Турция
+RADISSON BLU MALDIVES ***** (Южный Ари Атолл)|13428|Мальдивы
+RADISSON BLU PERA HOTEL ***** (Бейоглу)|13724|Турция
+RADISSON BLU RESORT FUJAIRAH ***** (Fujairah Beach)|74|ОАЭ
+RADISSON BLU SISLI HOTEL ***** (Шишли)|13852|Турция
+RAFFLES DUBAI ***** (Bur Dubai)|585|ОАЭ
+RAFFLES MALDIVES MERADHOO ***** (Гаафу Алифу Атолл)|9952|Мальдивы
+RAHAA RESORT **** (Лааму Атолл)|12626|Мальдивы
+RAMADA ABU DHABI CORNICHE **** (Abu Dhabi City)|6900|ОАЭ
+RAMADA BEACH HOTEL AJMAN **** (Ajman City)|1266|ОАЭ
+RAMADA BY WYNDHAM DUBAI **** (Deira)|13338|ОАЭ
+RAMADA BY WYNDHAM JUMEIRAH HOTEL ***** (Bur Dubai)|61|ОАЭ
+RAMADA ENCORE AIRPORT **** (Кючюкчекмедже)|13843|Турция
+RAMADA HOTEL & SUITES AJMAN **** (Ajman City)|1392|ОАЭ
+RAMADA HOTEL & SUITES BY WYNDHAM JBR **** (Jumeirah Beach Front)|4879|ОАЭ
+RAMADA HOTEL & SUITES ISTANBUL GOLDEN HORN **** (Бейоглу)|13950|Турция
+RAMADA ISTANBUL GRAND BAZAAR **** (Лалели)|13406|Турция
+RAMADA ISTANBUL OLD CITY **** (Фатих)|13409|Турция
+RAMADA ISTANBUL TAKSIM **** (Бейоглу)|13723|Турция
+RECITAL HOTEL **** (Султанахмет)|13763|Турция
+REETHI BEACH RESORT **** (Атолл)|5070|Мальдивы
+REETHI FARU RESORT **** (Раа Атолл)|9501|Мальдивы
+REGIE OTTOMAN HOTEL ***** (Сиркеджи)|13832|Турция
+REIS INN HOTEL TUYAP **** (Бейликдюзю)|13718|Турция
+RETAJ ROYALE ISTANBUL **** (Багджылар)|13700|Турция
+RIU ATOLL ***+ (Маафуши)|10050|Мальдивы
+RIU BAMBU 5* (Пунта Кана)|1605|Доминикана
+RIU CANCUN ***** (Канкун)|4992|Мексика
+RIU CARIBE ***** (Канкун)|4991|Мексика
+RIU DUNAMAR ***** (Канкун)|8404|Мексика
+RIU JALISCO ***** (Нуэво Вальярта)|13976|Мексика
+RIU LUPITA **** (Ривьера Майа)|4995|Мексика
+RIU NAIBOA 4* (Пунта Кана)|1604|Доминикана
+RIU PALACE BAVARO 5* (Пунта Кана)|1602|Доминикана
+RIU PALACE COSTA MUJERES ***** (Канкун)|12621|Мексика
+RIU PALACE LAS AMERICAS ***** (Канкун)|4993|Мексика
+RIU PALACE MACAO (Adults Only) 5* (Пунта Кана)|1019|Доминикана
+RIU PALACE MALDIVES ***** (Даалу Атолл)|10051|Мальдивы
+RIU PALACE MEXICO ***** (Ривьера Майа)|4999|Мексика
+RIU PALACE PACIFICO ***** (Нуэво Вальярта)|13978|Мексика
+RIU PALACE PENINSULA ***** (Канкун)|4994|Мексика
+RIU PALACE PUNTA CANA 5* (Пунта Кана)|1603|Доминикана
+RIU PALACE RIVIERA MAYA ***** (Ривьера Майа)|5000|Мексика
+RIU PLAYACAR ***** (Ривьера Майа)|4996|Мексика
+RIU REPUBLICA (Adults only) 5* (Пунта Кана)|6055|Доминикана
+RIU TEQUILA ***** (Ривьера Майа)|4997|Мексика
+RIU VALLARTA **** (Нуэво Вальярта)|13977|Мексика
+RIU YUCATAN ***** (Ривьера Майа)|4998|Мексика
+RIXOS BAB AL BAHR ***** (Ras Al Khaimah Beach)|4946|ОАЭ
+RIXOS PERA ISTANBUL ***** (Таксим)|13867|Турция
+RIXOS PREMIUM BODRUM ***** (Бодрум)|9523|Турция
+RIXOS PREMIUM BODRUM SPECIAL 5* - BODRUM ***** (Бодрум)|13367|Турция
+RIXOS PREMIUM DUBAI ***** (Jumeirah Beach)|7790|ОАЭ
+RIXOS PREMIUM SAADIYAT ISLAND ***** (Saadiyat Island)|9695|ОАЭ
+RIXOS THE PALM DUBAI HOTEL AND SUITES ***** (Palm Hotels)|1297|ОАЭ
+ROBINSON CLUB MALDIVES ****+ (Атолл)|5072|Мальдивы
+ROBINSON CLUB NOONU **** (Нону Атолл)|11877|Мальдивы
+ROOM MATE EMIR **** (Бейоглу)|13722|Турция
+ROOMERS NISANTASI HOTEL *** (Нишанташи)|13811|Турция
+ROSE BY MOLTON HOTEL **** (Бейоглу)|13721|Турция
+ROVE CITY CENTRE *** (Deira)|6693|ОАЭ
+ROVE DUBAI MARINA *** (Dubai Marina)|13102|ОАЭ
+ROVE LA MER *** (Jumeirah Beach Front)|13998|ОАЭ
+ROVE TRADE CENTRE *** (Bur Dubai)|8452|ОАЭ
+ROYAL CENTRAL THE PALM ***** (Palm Hotels)|9673|ОАЭ
+ROYAL ISLAND RESORT & SPA ***** (Баа Атолл)|5073|Мальдивы
+ROYALTON RIVIERA CANCUN ***** (Канкун)|5975|Мексика
+ROYALTON SUITES CANCUN RESORT & SPA ***** (Канкун)|12717|Мексика
+SAADIYAT ROTANA RESORT & VILLAS ***** (Saadiyat Island)|9136|ОАЭ
+SAFARI ISLAND RESORT **** (Северный Ари Атолл)|9503|Мальдивы
+SAHINLER HOTEL *** (Лалели)|13876|Турция
+SAII LAGOON MALDIVES **** (Южный Мале Атолл)|11811|Мальдивы
+SANCTUARY CAP CANA ***** (Пунта Кана)|956|Доминикана
+SANTA SOPHIA HOTEL *** (Султанахмет)|13761|Турция
+SARI KONAK HOTEL **** (Фатих)|13756|Турция
+SARNIC HOTEL **** (Султанахмет)|13410|Турция
+SEASUN BEACH HOTEL *** (Мале)|9829|Мальдивы
+SENSATORI RESORT PUNTA CANA ***** (Пунта Кана)|13994|Доминикана
+SEVEN HILLS HOTEL **** (Султанахмет)|13755|Турция
+SHANGRI-LA HOTEL QARYAT AL BERI ***** (Abu Dhabi City)|166|ОАЭ
+SHANGRI-LA'S VILLINGILI RESORT & SPA 5* Deluxe (Атолл)|5074|Мальдивы
+SHARJAH CARLTON HOTEL **** (Sharjah Beach)|163|ОАЭ
+SHERATON DUBAI MALL OF EMIRATES ***** (Sheikh Zayed Road)|1611|ОАЭ
+SHERATON JUMEIRAH BEACH RESORT ***** (Jumeirah Beach)|16|ОАЭ
+SHERATON MALDIVES FULL MOON RESORT & SPA ***** (Атолл)|5075|Мальдивы
+SHERATON SHARJAH BEACH RESORT & SPA ***** (Sharjah Beach)|5724|ОАЭ
+SIGNATURE 1 HOTEL TECOM – DUBAI Apartments (Al Barsha)|5703|ОАЭ
+SIGNATURE HOTEL APARTMENTS & SPA MARINA Apartments (Dubai Marina)|614|ОАЭ
+SILENCE ISTANBUL HOTEL & CONVENTION CENTER ***** (Стамбул)|13933|Турция
+SIM HOTEL *** (Аксарай)|13696|Турция
+SIRKECI MANSION HOTEL **** (Фатих)|13764|Турция
+SIX SENSES LAAMU ***** (Лааму Атолл)|5076|Мальдивы
+SOFITEL DUBAI JUMEIRAH BEACH HOTEL ***** (Jumeirah Beach Front)|589|ОАЭ
+SOFITEL THE PALM ***** (Palm Hotels)|1653|ОАЭ
+SOGUT HOTEL *** (Лалели)|13874|Турция
+SOMERSET MASLAK ISTANBUL ***** (Стамбул)|13932|Турция
+SONEVA FUSHI RESORT ***** (Атолл)|2663|Мальдивы
+SORRISO HOTEL **** (Лалели)|13414|Турция
+SOUTH PALM RESORT MALDIVES **** (Адду Атолл)|12627|Мальдивы
+SUADIYE HOTEL **** (Кадыкёй)|13837|Турция
+SUHA HOTEL APARTMENTS BY MONDO Apartments (Jumeirah Beach Front)|1455|ОАЭ
+SUHAN CAPPADOCIA HOTEL & SPA 5* (Каппадокия)|14024|Турция
+SULTAN CAVE SUITES 4* (Каппадокия)|14025|Турция
+SULTAN HOUSE HOTEL **** (Фатих)|13758|Турция
+SULTANHAN HOTEL **** (Султанахмет)|13759|Турция
+SUMMER ISLAND MALDIVES *** (Северный Мале Атолл)|8850|Мальдивы
+SUN ISLAND RESORT ***** (Южный Ари Атолл)|1361|Мальдивы
+SUN SIYAM IRU VELI (EX. SUN AQUA IRU VELI) ****+ (Даалу Атолл)|9825|Мальдивы
+SUN SIYAM OLHUVELI, MALDIVES **** (Южный Мале Атолл)|5066|Мальдивы
+SUN SIYAM VILU REEF (EX. SUN AQUA VILU REEF) ***** (Даалу Атолл)|3730|Мальдивы
+SUNLIGHT HOTEL *** (Фатих)|13760|Турция
+SURA DESIGN HOTEL & SUITES **** (Фатих)|13762|Турция
+SURA HAGIA SOPHIA HOTEL & SPA ***** (Фатих)|13751|Турция
+SUREYYA HOTEL *** (Лалели)|13838|Турция
+SURMELI HOTEL ISTANBUL ***** (Шишли)|13851|Турция
+SWISSOTEL AL GHURAIR DUBAI ***** (Deira)|9875|ОАЭ
+SWISSOTEL AL MUROOJ DUBAI ***** (Downtown)|13973|ОАЭ
+SWISSOTEL THE BOSPHORUS ISTANBUL ***** (Бешикташ)|13415|Турция
+SYMBOLA BOSPHORUS ISTANBUL **** (Бешикташ)|13711|Турция
+TAJ - CORAL VIVANTA **** (Атолл)|5086|Мальдивы
+TAJ EXOTICA RESORT & SPA 5* Deluxe (Атолл)|5077|Мальдивы
+TAKSIM METROPARK HOTEL **** (Бейоглу)|13720|Турция
+TAMANI HOTEL MARINA ***** (Dubai Marina)|189|ОАЭ
+TANGO HOTEL *** (Шишли)|13850|Турция
+TASSARAY HOTEL 3* (Каппадокия)|14026|Турция
+TAXIM SUITES **** (Таксим)|13866|Турция
+TAYHAN HOTEL *** (Аксарай)|13695|Турция
+THE AND HOTEL *** (Фатих)|13828|Турция
+THE BAREFOOT ECO HOTEL **** (Ханимаду)|8722|Мальдивы
+THE BOSPHORUS HOUSE *** (Ускюдар)|13801|Турция
+THE BYZANTIUM HOTEL **** (Султанахмет)|12383|Турция
+THE CENTRAL PALACE BOSPHORUS **** (Тарабья)|13931|Турция
+THE CHEDI AL BAIT SHARJAH ***** (Sharjah City)|12954|ОАЭ
+THE CITY HOTEL ISTANBUL **** (Лалели)|13831|Турция
+THE COVE ROTANA RESORT ***** (Ras Al Khaimah Beach)|327|ОАЭ
+THE CROWN BEACH HOTEL Guest House (Северный Мале Атолл)|8851|Мальдивы
+THE ELYSIUM ISTANBUL HOTEL ***** (Шишли)|13848|Турция
+THE FIVES AZUL BEACH RESORT PLAYA DEL CARMEN ***** (Ривьера Майа)|12754|Мексика
+THE HOTEL OTTOMAN CITY **** (Кягытхане)|13840|Турция
+THE HOUSE HOTEL BOMONTI **** (Стамбул)|13930|Турция
+THE MERETTO HOTEL ISTANBUL **** (Лалели)|13416|Турция
+THE MERETTO HOTEL LALELI *** (Лалели)|13391|Турция
+THE NAUTILUS MALDIVES ***** (Баа Атолл)|9830|Мальдивы
+THE OBEROI BEACH RESORT AL ZORAH ***** (Ajman Beach)|6870|ОАЭ
+THE OBEROI DUBAI ***** (Sheikh Zayed Road)|5438|ОАЭ
+THE PEAK HOTEL **** (Стамбул)|13927|Турция
+THE RESIDENCES AT CAESARS PALACE BLUEWATERS DUBAI ***** (Dubai Marina)|12288|ОАЭ
+THE RETREAT PALM DUBAI ***** (Palm Hotels)|8418|ОАЭ
+THE RITZ CARLTON DUBAI ***** (Jumeirah Beach)|15|ОАЭ
+THE RITZ-CARLTON ABU DHABI GRAND CANAL ***** (Abu Dhabi City)|1618|ОАЭ
+THE RITZ-CARLTON, RAS AL KHAIMAH AL HAMRA BEACH ***** (Ras Al Khaimah Beach)|9528|ОАЭ
+THE RITZ-CARLTON, RAS AL KHAIMAH AL WADI DESERT ***** (Ras Al Khaimah Desert)|9533|ОАЭ
+THE ST. REGIS MALDIVES ***** (Даалу Атолл)|9021|Мальдивы
+THE ST.REGIS ABU DHABI ***** (Abu Dhabi Beach)|5692|ОАЭ
+THE ST.REGIS SAADIYAT ISLAND RESORT ***** (Saadiyat Island)|1558|ОАЭ
+THE STANDARD, HURUVALHI MALDIVES ***** (Раа Атолл)|10020|Мальдивы
+THE STAY HOTEL BOSPHORUS **** (Стамбул)|13926|Турция
+THE STAY NISANTASI **** (Нишанташи)|13815|Турция
+THE SUN SIYAM IRU FUSHI ***** (Нону Атолл)|5544|Мальдивы
+THE TIME HOTEL OLD CITY **** (Лалели)|13822|Турция
+THE VILLAGE AT THE COVE ROTANA RESORT ***** (Ras Al Khaimah Beach)|12207|ОАЭ
+THE WESTIN DUBAI MINA SEYAHI BEACH RESORT ***** (Jumeirah Beach)|97|ОАЭ
+THE WESTIN MALDIVES MIRIANDHOO RESORT ***** (Баа Атолл)|9884|Мальдивы
+THULHAGIRI ISLAND RESORT ***** (Северный Мале Атолл)|9505|Мальдивы
+TITANIC BUSINESS GOLDEN HORN ***** (Байрампаша)|13708|Турция
+TITANIC BUSINESS KARTAL ***** (Стамбул)|13925|Турция
+TITANIC CITY TAKSIM **** (Таксим)|12400|Турция
+TITANIC DELUXE BODRUM 5* - BODRUM ***** (Бодрум)|13362|Турция
+TITANIC PORT BAKIRKOY ***** (Бакыркёй)|13704|Турция
+TOPKAPI INTER ISTANBUL HOTEL **** (Фатих)|13967|Турция
+TOWERS ROTANA HOTEL DUBAI **** (Sheikh Zayed Road)|627|ОАЭ
+TRADERS HOTEL QARYAT AL BERI ABU DHABI **** (Abu Dhabi City)|1559|ОАЭ
+TRIA HOTEL ISTANBUL **** (Султанахмет)|13753|Турция
+TRIADA HOTEL KARAKOY *** (Стамбул)|13924|Турция
+TROPICAL SANDS KELAAA Guest House (Келааа)|13948|Мальдивы
+TRYP BY WYNDHAM ISTANBUL TAKSIM **** (Стамбул)|13923|Турция
+TULIP CITY TAKSIM HOTEL **** (Стамбул)|13922|Турция
+TULIP HOTEL APARTMENT ***** (Bur Dubai)|1506|ОАЭ
+TWO SEASONS HOTEL & APARTMENTS (EX.GLORIA HOTEL) **** (Media City)|1403|ОАЭ
+UCHISAR KAYA HOTEL 4* (Каппадокия)|14027|Турция
+V HOTEL, CURIO COLLECTION BY HILTON ***** (Downtown)|6794|ОАЭ
+VAKARUFALHI MALDIVES ***** (Южный Ари Атолл)|8998|Мальдивы
+VAKKARU MALDIVES ***** (Баа Атолл)|9015|Мальдивы
+VARU BY ATMOSPHERE ***** (Мале)|13138|Мальдивы
+VELANA BEACH MAAFUSHI **** (Маафуши)|8723|Мальдивы
+VELANA BLU MALDIVES Guest House (Маафуши)|8664|Мальдивы
+VELASSARU MALDIVES ***** (Атолл)|1219|Мальдивы
+VELIGANDU ISLAND RESORT **** (Раа Атолл)|8901|Мальдивы
+VENERA HOTEL **** (Лалели)|13800|Турция
+VICENZA HOTEL 4* (Лалели)|12398|Турция
+VICTORY HOTEL & SPA **** (Лалели)|13819|Турция
+VILAMENDHOO ISLAND RESORT **** (Атолл)|5084|Мальдивы
+VILLA ROTANA DUBAI Apartments (Sheikh Zayed Road)|1507|ОАЭ
+VOCO DUBAI (FORMERLY NASSIMA ROYAL HOTEL) ***** (Sheikh Zayed Road)|806|ОАЭ
+VOGUE HOTEL SUPREME - VILLAS & SUITES 5* - BODRUM ***** (Бодрум)|13369|Турция
+VOGUE HOTEL SUPREME 5* - BODRUM ***** (Бодрум)|13368|Турция
+VOGUE SUPREME ISTANBUL ***** (Фатих)|13417|Турция
+VOLLEY HOTEL ISTANBUL **** (Стамбул)|13921|Турция
+VOYAGE BODRUM 5* - BODRUM ***** (Бодрум)|13370|Турция
+W DUBAI-THE PALM ***** (Palm Hotels)|8640|ОАЭ
+W MALDIVES 5* Deluxe (Северный Ари Атолл)|13309|Мальдивы
+WALDORF ASTORIA DUBAI PALM JUMEIRAH ***** (Palm Hotels)|4964|ОАЭ
+WALDORF ASTORIA MALDIVES ITHAAFUSHI ***** (Мале)|11879|Мальдивы
+WALDORF ASTORIA RAS AL KHAIMAH ***** (Ras Al Khaimah Beach)|2664|ОАЭ
+WALTON HOTEL GALATA **** (Стамбул)|13920|Турция
+WHITE MONARCH HOTEL **** (Стамбул)|13919|Турция
+WISH MORE HOTEL ***** (Стамбул)|13918|Турция
+WYNDHAM DUBAI MARINA **** (Dubai Marina)|5881|ОАЭ
+WYNDHAM GARDEN AJMAN CORNICHE **** (Ajman Beach)|9415|ОАЭ
+XANADU ISLAND BODRUM ***** (Бодрум)|11817|Турция
+XOLUMADO INSPIRATIONAL VILLAGE **** (Ривьера Майа)|12753|Мексика
+YASMAK SULTAN HOTEL **** (Сиркеджи)|13418|Турция
+YOU & ME BY COCOON MALDIVES ***** (Атолл)|9856|Мальдивы
+YUKSEL ISTANBUL YENIKAPI HOTEL **** (Фатих)|13962|Турция
+YUNAK EVLERI CAPPADOCIA CAVE HOTEL 4* (Каппадокия)|14028|Турция
+YUSUF YIGITOGLU MANSION 4* (Каппадокия)|14029|Турция
+YUSUFPASA KONAGI *** (Султанахмет)|13752|Турция
+ZABEEL HOUSE BY JUMEIRAH, THE GREENS **** (Sheikh Zayed Road)|13997|ОАЭ
+ZAYA NURAI ISLAND ***** (Abu Dhabi Beach)|13052|ОАЭ
+ZURICH HOTEL **** (Лалели)|13795|Турция

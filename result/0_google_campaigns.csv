@@ -1,0 +1,3 @@
+Campaign,Budget,Campaign type,Networks,Location,Bid strategy type,Campaign status
+v1_Минск_Турция,100.00,Search,Google search;Search partners,"Minsk Region, Belarus",Maximize clicks,Paused
+v1_Минск_Египет,100.00,Search,Google search;Search partners,"Minsk Region, Belarus",Maximize clicks,Paused
